@@ -1,0 +1,6 @@
+1. Inicio
+2. Ingrese base del triángulo
+3. Ingrese altura del triángulo
+4. Se multiplica la base por altura ingresadas dividido para 2
+5. Se da como resultado en pantalla el área del triangulo en base a los datos ingresados
+6. Fin

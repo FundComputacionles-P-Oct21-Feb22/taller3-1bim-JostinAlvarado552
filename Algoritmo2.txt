@@ -1,0 +1,7 @@
+1. Inicio
+2. Ingresar datos de los gastos del primer hijo
+3. Ingresar datos de los gastos del segundo hijo
+4. Ingresar datos de los gastos del tercer hijo
+5. Operación de suma de todos los gastos de los 3 hijos ingresados 
+6. Se muestra en pantalla el total de gastos del padre de familia en los 3 hijos
+7. Fin

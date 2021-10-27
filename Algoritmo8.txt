@@ -1,0 +1,8 @@
+1. Inicio
+2. El usuario ingresa su fecha de nacimiento, con el fin de conocer su edad.
+2. Se muestra en pantalla un cuadro de texto donde se puedan seleccionar servicios de los cuáles disponga el usuario
+3. Se muestra otro cuadro de texto en el cuál el usuario pueda seleccionar el plan de cada servicio seleccionado.
+4. Se realiza una operación de suma del costo del plan de cada servicio del que dispone el usuario.
+5. Se muestra en pantalla un cuadro con el valor total a pagar de todos los servicios de los que disponga el usuario.
+6. En caso de cumplirse la condición de que el usuario sea menor a 30 años se hace un descuento del 20% al valor total mensual y se muestra en pantalla un cuadro de diálogo que enuncie "Descuento del 20% aplicado para usuario menores a 20 años"
+7. Fin

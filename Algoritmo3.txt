@@ -1,0 +1,5 @@
+1. Inicio
+2. Se muestra mensaje en pantalla con el siguiente enunciado "Ingrese un número cuyo valor este entre 2 y 6 para obtener su tabla de multiplicación"
+3. En caso de que el valor ingresado este entre 2 y 6, se muestra en pantalla la multiplicación entre el valor ingresado y los primeros 12 números
+4. En caso de que el valor ingresado sea diferente de un número entre 2 y 6, se muestra en pantalla un mensaje enunciando lo siguiente "El valor ingresado no se encuentra entre el rango de números permitidos"
+5. Fin

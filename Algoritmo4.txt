@@ -1,0 +1,6 @@
+1. Inicio
+2. Se solicita ingresar el costo por minuto de una llamada telefonica
+3. Se solicita ingresar el número de minutos que el usuario consumió en el mes
+4. Se realiza una operación de multiplicación entre el "costo por minuto" y los "minutos consumidos en el mes"
+5. Se muestra un mensaje en pantalla con el resultado de dicha multiplicación, cuyo valor representa el valor total de la planilla telefonica de una casa
+6. Fin

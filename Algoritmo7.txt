@@ -1,0 +1,9 @@
+1. Inicio
+2. Ingrese su número de cédula
+3. Verificar edad del usuario, en caso del usuario ser mayor a 65 años realizar un descuento del 10% a la planilla de luz del mes
+4. Ingresar el valor del costo del kilovatio/hora
+5. Ingresar el número de kilovatios consumidos en el mes
+6. Realizar una operación de multiplicación entre el costo kilovatio/hora y el número de kilovatios consumidos en el mes.
+7. Se muestra un mensaje en pantalla con el valor a pagar de la mensualidad de la planilla de luz
+8. Unicamente en caso de que la condicion del usuario mayor a 65 años se cumpla, se multiplica el valor de la mensualidad por 10 y se divide para 100, luego restamos este porcentaje calculado al valor mensual a pagar y adicional se muestra un mensaje en pantalla que enuncia "Descuento del 10% aplicado por ser usuario de la tercera edad"
+9. Fin

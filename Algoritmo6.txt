@@ -1,0 +1,9 @@
+1. Inicio
+2. Ingresar el monto total del prestámo
+3. Ingresar el tiempo de plazo a pagar
+4. Ingresar el porcentaje de interés mensual a cobrar
+5. Se divide el monto total del prestamo para los meses plazo a pagar 
+6. Al valor de la mensualidad se la multiplica por el porcentaje de interes y se divide para 100
+7. Se suma el valor de la mensualidad con el resultado del porcentaje de interes de la mensualidad.
+8. se muestra un mensaje en pantalla con el valor total de la mensualidad con el interes aplicado.
+9. Fin

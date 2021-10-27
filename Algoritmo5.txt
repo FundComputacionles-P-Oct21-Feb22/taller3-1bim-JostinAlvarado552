@@ -1,0 +1,7 @@
+1. Inicio
+2. Ingrese el costo del CPU
+3. Ingrese el costo del teclado
+4. Ingrese el costo del monitor
+5. Ingrese el costo del ratón
+6. Se muestra en pantalla el resultado de la suma del costo del CPU + Teclado + Monitor + Ratón, cuyo resultado expresa el costo total de una computadora de escritorio
+7. Fin
